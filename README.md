@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://my0portfolio.netlify.app](https://my0portfolio.netlify.app)
 
-- 💬 Ask me about **HTML, CSS, Python**
+- 💬 Ask me about **HTML, CSS, Python, JavaScript**
 
 - 📫 How to reach me **specispeci01@gmail.com**
 
