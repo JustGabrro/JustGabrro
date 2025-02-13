@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML, CSS, Python, JavaScript**
 
-- 📫 How to reach me **specispeci01@gmail.com**
+- 📫 How to reach me **gabrros.info@gmail.com**
 
 - 📄 Know about my experiences [https://portfolio-justgabrros-projects.vercel.app/](https://portfolio-justgabrros-projects.vercel.app/) 
 
